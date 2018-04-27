@@ -1,0 +1,5 @@
+input=['white','black','green','blue','pink']
+x = []
+for a in input:
+    x.append(a.upper())
+print(x)
